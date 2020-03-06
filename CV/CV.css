@@ -10,7 +10,13 @@ h1
   font-weight: bold;
 }
 
-.formation
+#navbar
 {
-  font-weight: bold;
+  background-color: 3178ae;
+  color:white;
+}
+
+#navbar a
+{
+  color:white;
 }
