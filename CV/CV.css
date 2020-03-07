@@ -8,15 +8,23 @@ h1
   color:white;
   font-size : 1.3em;
   font-weight: bold;
+
 }
 
 #navbar
 {
-  background-color: 3178ae;
+  background-color: #3178ae;
   color:white;
 }
 
 #navbar a
 {
   color:white;
+}
+
+#coordonnees
+{
+  background-color: #3178ae;
+  color:white;
+  font-weight: lighter;
 }
